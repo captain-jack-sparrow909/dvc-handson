@@ -24,4 +24,5 @@ if you make any change in your data/csv file, you need to 2 and 4, you should al
 ## summary:
 data is stored in s3 bucket and meta-data of the dataset is stored in git
 to the git -> .dvc folder and your data.csv.dvc file should be pushed
+in the data.csv.dvc is the checksum which is pointing to the latest data available in the s3 bucket
 
