@@ -1,0 +1,4 @@
+[core]
+    remote = drinksremote
+['remote "drinksremote"']
+    url = s3://mlops-demo-abhishek-dvc-bucket

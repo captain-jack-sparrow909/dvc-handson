@@ -6,4 +6,8 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dvc>=3.67.1",
+    "mlflow>=3.14.0",
+    "numpy>=2.5.0",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.9.0",
 ]
