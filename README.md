@@ -17,4 +17,6 @@
 ## Note: 
 you need to have aws account and configured in your CLI; aws configure in your cli and enter access key and secret access key
 
+if you make any change in your data/csv file, you need to 2 and 4, you should also git commit your dvc configs
+
 
